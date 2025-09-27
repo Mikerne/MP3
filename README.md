@@ -1,6 +1,8 @@
 # MP3
 MINI PROJECT 3: MACHINE LEARNING FOR ANALYSIS AND PREDICTION 
 
+Created by Valdemar & Micke
+
 ## Employee Behavior Analysis - Project Notes
 
 **1) Which are the most decisive factors for quitting a job? Why do people quit their job?**  
